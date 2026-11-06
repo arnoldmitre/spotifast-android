@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Rust
+core-rust/target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local configuration
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
